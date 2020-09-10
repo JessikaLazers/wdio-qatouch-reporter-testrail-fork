@@ -1,0 +1,23 @@
+{
+  "name": "wdio-qatouch-reporter",
+  "version": "1.0.0",
+  "description": "A Qa Touch reporter for webdriver.io",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spec",
+    "qatouch",
+    "reporter",
+    "webdriverio",
+    "wdio",
+    "wdio-plugin",
+    "wdio-reporter"
+  ],
+  "author": "Qa Touch",
+  "dependencies": {
+    "sync-request": "^4.1.0"
+  },
+  "license": "MIT"
+}
