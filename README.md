@@ -3,7 +3,7 @@ Test Together
 
 Collaborative Test Case Management tool For Modern QA Teams
 
-#QA Touch Reporter for Webdriver.io
+# QA Touch Reporter for Webdriver.io
 
 Pushes test results into QA Touch system.
 
