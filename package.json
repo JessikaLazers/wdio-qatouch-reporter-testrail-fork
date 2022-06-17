@@ -17,7 +17,8 @@
   ],
   "author": "QA Touch",
   "dependencies": {
-    "sync-request": "^4.1.0"
+    "sync-request": "^6.1.0",
+    "then-request": "^6.0.2"
   },
   "repository": {
     "type": "git",
